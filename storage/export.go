@@ -35,3 +35,5 @@ type RewriteResponse = storagepb.RewriteResponse
 type StartResumableWriteResponse = storagepb.StartResumableWriteResponse
 type UpdateBucketRequest = storagepb.UpdateBucketRequest
 type UpdateObjectRequest = storagepb.UpdateObjectRequest
+
+type ChecksummedData = storagepb.ChecksummedData
