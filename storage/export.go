@@ -37,3 +37,5 @@ type UpdateBucketRequest = storagepb.UpdateBucketRequest
 type UpdateObjectRequest = storagepb.UpdateObjectRequest
 
 type ChecksummedData = storagepb.ChecksummedData
+type ObjectChecksums = storagepb.ObjectChecksums
+type ContentRange = storagepb.ContentRange
